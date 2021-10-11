@@ -1,1 +1,1 @@
-Classic IMC Calculator
+Projeto simples, somente por intuito de teste da plataforma GitKraken
